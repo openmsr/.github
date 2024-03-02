@@ -7,7 +7,7 @@ contribution is welcome.
 - [msr-archive](https://github.com/openmsr/msr-archive)
 
 **openmc code development**
-- [openmc](https://github.com/openmsr/openmc) a fork of the [openmc's main branch](https://github.com/openmc-dev/openmc) with msr feature development.
+- [openmc](https://github.com/openmsr/openmc) a fork of the [openmc main branch](https://github.com/openmc-dev/openmc) with msr feature development.
 - [pincell-msr](https://github.com/openmsr/pincell_msr) example case to demonstrate msr features in openmc.
 - [CAD_to_OpenMC](https://github.com/openmsr/CAD_to_OpenMC) allows for meshed CAD geometries to be modeled in openmc.
 
