@@ -13,6 +13,9 @@ contribution is welcome.
 - [OpenMC_To_Geant4](https://github.com/openmsr/OpenMC_To_Geant4) allows for charged particles and photo-nuclear reactions modeling in TOPAS/Geant4 based on openmc input.
 - [msrDynamics](https://github.com/openmsr/msrDynamics) allows for dynamic point-kinetics and modified point-kinetics modeling of msr's using standard python libraries.
 
+**ideas for academic or hobby projects related to molten salt reactor modeling**
+- [msr-project-ideas](https://github.com/openmsr/msr-project-ideas)
+
 **historical msr benchmarks CAD files and openmc models**
 - [are](https://github.com/openmsr/are) aircraft reactor experiment (ORNL, 1954)
 - [zpre](https://github.com/openmsr/zpre) zero power reactor experiment (ORNL, 1957)
